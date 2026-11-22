@@ -1,0 +1,36 @@
+# Local environment and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Logs and raw captures
+*.log
+*.pcap
+*.pcapng
+*.dump
+*.sqlite
+*.db
+
+# Sensitive exports and secrets
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+private/
+raw-captures/
+credential-dumps/
+*credentials*
+*passwords*
+*tokens*
+
+# Python artifacts (if helper scripts are added later)
+__pycache__/
+*.py[cod]
+.venv/
+venv/

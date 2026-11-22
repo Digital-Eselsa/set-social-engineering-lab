@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<harvester>
+   URL=http://192.168.1.7/dvwa/login.php
+   <url>      <param>username=Eselsa</param>
+      <param>password=Eselsa123456789$$$$</param>
+      <param>Login=Login</param>
+   </url>
+   <url>      <param>username=dennischigozie876@gmail.com</param>
+      <param>password=Gozie1234567$$</param>
+      <param>Login=Login</param>
+   </url>
+   <url>      <param>username=admin</param>
+      <param>password=3555555555</param>
+      <param>Login=Login</param>
+   </url>
+   <url>      <param>username=lol</param>
+      <param>password=56765533</param>
+      <param>Login=Login</param>
+   </url>
+</harvester>
